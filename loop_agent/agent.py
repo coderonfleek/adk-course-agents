@@ -1,7 +1,6 @@
 """
 Recipe Optimization Pipeline.
 
-Okay, let's create a similar example using a LoopAgent for a "Recipe Optimization Pipeline."
 
 The goal is to iteratively refine a recipe based on feedback, such as making it healthier or adjusting ingredients, until a "chef critic" is satisfied.
 
