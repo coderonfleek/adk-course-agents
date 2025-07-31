@@ -46,4 +46,4 @@ wikipedia_summarizer_agent = LlmAgent(
     generate_content_config=types.GenerateContentConfig(temperature=0.2) # More factual, less creative
 )
 
-root_agent = wikipedia_summarizer_agent
+root_agent = fact_finder_agent
